@@ -18,6 +18,11 @@
 ![alt text](https://github.com/sudeepkatakol/GANs/blob/master/CIFAR-10/cifar-wgan-gp.gif)
 ![alt text](https://github.com/sudeepkatakol/GANs/blob/master/CIFAR-10/wgan-gp-cifar.png)
 
+
+#### Samples:
+![alt text](https://github.com/sudeepkatakol/GANs/blob/master/CIFAR-10/cifar-samples/1.png)
+![alt text](https://github.com/sudeepkatakol/GANs/blob/master/CIFAR-10/cifar-samples/3.png)
+
 ### Tiny ImageNet
 #### Algorithm: WGAN-GP, Optimizer: Adam, Learning Rate: 0.0001, n_critic = 5
 ![alt text](https://github.com/sudeepkatakol/GANs/blob/master/Tiny%20ImageNet/disc_losses.png)
